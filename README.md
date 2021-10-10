@@ -1,4 +1,4 @@
-### Olá! Sou Reinaldo Santos Consultor de Segurança da Informação e trabalho com IAM - Agora estou aprendendo Python.
+### Olá! Sou Reinaldo Santos Consultor de Segurança da Informação e trabalho com IAM.<br> Agora estou aprendendo Python.
 
 <div align="center">
   <a href="https://github.com/reinaldojss13">
